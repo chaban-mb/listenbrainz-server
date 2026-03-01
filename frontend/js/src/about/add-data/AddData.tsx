@@ -358,7 +358,7 @@ export default function AddData() {
         </li>
         <li>
           <em>
-            <a href="https://www.jewelcase.app/">Jewelcase</a>
+            <a href="https://jewelcase.app/">Jewelcase</a>
           </em>
           , an offline music player for iOS
         </li>
